@@ -1,0 +1,2 @@
+error: src refspec main does not match any. NOw this is a later addition
+error: failed to push some refs to 'https://github.com/shubham-joshi1999/git_folder'
